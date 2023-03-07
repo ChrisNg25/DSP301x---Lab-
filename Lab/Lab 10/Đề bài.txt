@@ -1,0 +1,36 @@
+Hướng dẫn chi tiết
+
+Đầu tiên bạn cần tải các đoạn code ở phần "Tài nguyên"  và hoàn thành các đoạn code đó theo đề bài như sau.
+
+Bài 1: Mở file Ex1.py và hoàn thành đoạn code để lấy các dòng được bắt đầu bằng ký tự ">", kết quả sau khi chạy sẽ như sau: 
+
+['>Venues', '>Marketing', '>medalists', '>Controversies', '>Paralympics', '>snowboarding', '>Netherlands', '>Norway', '>References', '>edit', '>Norway', '>Germany', '>Canada', '>Netherlands', '>Japan', '>Italy', '>Belarus', '>China', '>Slovakia', '>Slovenia', '>Belgium', '>Spain', '>Kazakhstan', '>1964', '>1968', '>1972', '>1992', '>1996', '>2000']
+
+Bài 2: Mở file Ex2.py và hoàn thành đoạn code để lấy được các email có trong chuỗi đó. Kết quả sau khi chạy sẽ như sau:
+
+['franky@google.com', 'sinatra123@yahoo.com']
+
+Bài 3: Mở file Ex3.py và hoàn thành đoạn code để lấy được các email có trong chuỗi đó (chỉ lấy phần ở trước ký tự '@' và ký tự '@'). Kết quả sau khi chạy sẽ như sau:
+
+['franky@', 'sinatra123@']
+
+Bài 4: Mở file Ex4.py và hoàn thành đoạn code tương tự như bài 3, nhưng lần này không lấy ký tự '@' nữa. Kết quả sau khi chạy sẽ như sau:
+
+['franky', 'sinatra123']
+
+Bài 5: Mở file Ex5.py và hoàn thành đoạn code để trích xuất những từ có đúng 8 ký tự từ chuỗi. Kết quả sau khi chạy sẽ như sau:
+
+['empourpr', 'palmiers']
+
+Bài 6: Mở file Ex6.py và hoàn thành đoạn code để trích xuất những số bắt đầu với '212'. Kết quả sau khi chạy sẽ như sau:
+
+['21299']
+
+Bài 7: Mở file Ex7.py và hoàn thành đoạn code theo yêu cầu sau. Bạn được cung cấp giá cổ phiếu cho các mã tài chính liên quan. (Biểu tượng đại diện cho các công ty trên thị trường chứng khoán). Tìm cách trích xuất các mã được đề cập trong báo cáo. tức là: TSLA, NFLX ... Kết quả sau khi chạy sẽ như sau:
+
+['TSLA', 'ORCL', 'GE', 'MSFT', 'BIDU']
+
+Bài 8: Mở file Ex8.py và hoàn thành đoạn code để trích xuất các thẻ html có nhiều hơn 4 chữ cái. Các thẻ html mở có thể được tìm thấy bên trong các ký tự <> và các thẻ html đóng có thể được tìm thấy ở cùng một định dạng sau ký tự </>, ví dụ <param> </param>. Kết quả sau khi chạy sẽ như sau:
+
+['video', 'center', 'button']
+
